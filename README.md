@@ -27,7 +27,7 @@ The techniques chosen for the analysis are described below. They are classified 
   <li><strong>Sending of information and firmware updates via HTTP</strong>: if this kind of information is sent via HTTP the device is exposed to “Network sniffing” attacks. This technique is not commonly used by the selected cyber-criminal groups.</li>
 </ul>
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
 
@@ -40,6 +40,6 @@ To sum up, there are mainly four techniques that should be considered.  "Unsecur
 <br />
 The other three, “Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol”, “System Network Configuration Discovery” and “Data from cloud storage object”, have the same characteristics except for visibility coverage, which is better than in the previous technique.
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
